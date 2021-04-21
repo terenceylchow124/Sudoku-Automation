@@ -13,6 +13,7 @@ Now, it's to time to play some games!!
 
 # Testing Steps
 > - Now, go to [sudoku.com](https://sudoku.com/medium/). And run ***main.py***. 
+> - IMPORTANTLY, mouse-click the digit on top-left corner of sudoku puzzle.
 > - The programe will automically take 4 steps: 
 >   1. screenshot sudoku; 
 >   2. recongize digit and generate sudoku board; 
