@@ -1,7 +1,7 @@
 # sudoku_automating 
-Sudoku Automation by KNN OCR and backtracking
+Sudoku Automation by KNN-OCR and Backtracking
 
-In this project, we develop sudoku automation system to auto-solve sudoku puzzle from from [here](https://sudoku.com/medium/). First thing first, we grab the screen-shot image and track every positions of digits and manually labels every digits by using OpenCV. Then, we implement ***K-Nearest-Neighbors-Optical Character-Recognizer (KNN-OCR)*** to detect and classify all sudoku digit. Now, the 9x9 sudoku board is ready in our programe. We apply ***back-tracking*** to solve the puzzle. Finally, we simulate keyboard actions by pyautogui 
+In this project, we develop sudoku automation system to auto-solve sudoku puzzle from from [here](https://sudoku.com/medium/). First thing first, we grab the screen-shot image and track every positions of digits and manually labels every digits by using OpenCV. Then, we implement ***K-Nearest-Neighbors-Optical Character-Recognizer (KNN-OCR)*** to detect and classify all sudoku digit. Now, the 9x9 sudoku board is ready in our programe. We apply ***Backtracking*** to solve the puzzle. Finally, we simulate keyboard actions by pyautogui 
 
 Now, it's to time to play some games!!
 
@@ -13,7 +13,7 @@ Now, it's to time to play some games!!
 
 # Testing Steps
 > - Now, you're good to go. Go to [sudoku.com](https://sudoku.com/medium/). And run main.py. 
-> - The programe will automically take 4 steps: 1) screenshot sudoku; 2) recongize digit and generate sudoku board; 3) solve by back-tracking, 4) simulate keyboard actions.
+> - The programe will automically take 4 steps: 1) screenshot sudoku; 2) recongize digit and generate sudoku board; 3) solve by Backtracking, 4) simulate keyboard actions.
 > - Note that, you may need to adjust WINDOW_X, WINDOW_Y, WINDOW_WIDTH and WINDOW_HEIGHT in main.py in order to take proper screenshot from your screen.  
 
 # Acknowledgment
