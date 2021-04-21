@@ -8,7 +8,7 @@ Now, it's to time to play some games!!
 # Training Steps
 > - Normally, we need more screenshot to train our KNN-OCR, so manully take few screenshot of sudoku and create "sudoku_train.png" by combining those. To skip this step, we provide you under data/.
 > - For data collection, run digit_recongizer.py. Please input corresponding number for each red rectangle of pop up window. 
-> - Now, training data and labels are already. ("sudoku_data.data" and "sudoku_labels")
+> - Now, training data and labels are already. ("sudoku_data.data" & "sudoku_labels")
 > - Next, train KNN model by running knn_train.py. To skip this step, you can also use our trained model. 
 
 # Testing Steps
