@@ -1,12 +1,12 @@
 # Sudoku Automation by KNN-OCR and Backtracking
 
-In this project, we develop sudoku automation system to auto-solve sudoku puzzle from from [here](https://sudoku.com/medium/). First thing first, we grab the screen-shot image and track every positions of digits and manually labels every digits by using OpenCV. Then, we implement ***KNearest-Neighbors-Optical-Character-Recognizer (KNN-OCR)*** to detect and classify all sudoku digit. Now, the 9x9 sudoku board is ready in our programe. We apply ***Backtracking*** to solve the puzzle. Finally, we simulate keyboard actions by pyautogui 
+In this project, we develop sudoku automation system to auto-solve sudoku puzzle from from [here](https://sudoku.com/medium/). First thing first, we grab the screenshot image and track every positions of digits and manually labels every digits by using OpenCV. Then, we implement ***KNearest-Neighbors-Optical-Character-Recognizer (KNN-OCR)*** to detect and classify all sudoku digit. Now, the 9x9 sudoku board is ready in our programe. We apply ***Backtracking*** to solve the puzzle. Finally, we simulate keyboard actions by pyautogui 
 
 Now, it's to time to play some games!!
 
 
 # Training Steps
-> - Normally, we need more creen-shot to train our KNN-OCR, so take few screen-shot of sudoku and create "sudoku_train.png" manully by combining those. To skip this step, we provide you under data/.
+> - Normally, we need more screenshot to train our KNN-OCR, so take few screenshot of sudoku and create "sudoku_train.png" manully by combining those. To skip this step, we provide you under data/.
 > - For data collection, run digit_recongizer.py. Please input corresponding number for each red rectangle of pop up window. 
 > - Now, training data and labels are already. ("sudoku_data.data" and "sudoku_labels")
 > - Next, train KNN model by running knn_train.py. To skip this step, you can also use our trained model. 
