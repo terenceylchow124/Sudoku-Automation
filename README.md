@@ -11,7 +11,7 @@ Now, it's to time to play some games!!
 > - Next, train KNN model as a digit recongizer by running knn_train.py. To skip this step, you can also use our trained model. 
 
 # Testing Steps
-> - Now, you can go [sudoku.com](https://sudoku.com/medium/). And run main.py. 
+> - Now, go to [sudoku.com](https://sudoku.com/medium/). And run main.py. 
 > - The programe will automically take 4 steps: 
 >   1. screenshot sudoku; 
 >   2. recongize digit and generate sudoku board; 
