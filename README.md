@@ -15,9 +15,9 @@ Now, it's to time to play some games!!
 > - The programe will automically take 4 steps: 
 >   1. screenshot sudoku; 
 >   2. recongize digit and generate sudoku board; 
->   3. solve by Backtracking, 
+>   3. solve by Backtracking;
 >   4. simulate keyboard actions.
-> - Note that, you may need to adjust WINDOW_X, WINDOW_Y, WINDOW_WIDTH and WINDOW_HEIGHT in main.py in order to take proper screenshot from your screen.  
+> - You may need to adjust WINDOW_X, WINDOW_Y, WINDOW_WIDTH and WINDOW_HEIGHT in main.py in order to take proper screenshot from your screen.  
 
 # Acknowledgment
 We refer reader to: 
