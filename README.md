@@ -18,6 +18,6 @@ Now, it's to time automating sudoku.
 > 
 # Acknowledgment
 We refer reader to: 
-1. Python Sudoku Solver Tutorial with Backtracking: [https://www.youtube.com/watch?v=eqUwSA0xI-s](https://www.youtube.com/watch?v=eqUwSA0xI-s)
-2. Sudoku Automation: [https://www.youtube.com/watch?v=jESGMTcrhSY](https://www.youtube.com/watch?v=jESGMTcrhSY)
-3. Optical Character Recognition (OCR) with KNN: [https://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python](https://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python)
+1. [Python Sudoku Solver Tutorial with Backtracking](https://www.youtube.com/watch?v=eqUwSA0xI-s)
+2. [Sudoku Automation:](https://www.youtube.com/watch?v=jESGMTcrhSY)
+3. [Optical Character Recognition (OCR) with KNN classifier](https://stackoverflow.com/questions/9413216/simple-digit-recognition-ocr-in-opencv-python)
