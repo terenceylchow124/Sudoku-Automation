@@ -1,6 +1,6 @@
 # Sudoku Automation by KNN-OCR and Backtracking
 
-In this project, we develop sudoku (数独/すうどく) automation system to auto-solve sudoku puzzle from from [here](https://sudoku.com/medium/). First thing first, we grab the screenshot image and track every positions of digits and manually labels every digits by using OpenCV. Then, we implement ***KNearest-Neighbors-Optical-Character-Recognizer (KNN-OCR)*** to detect and classify all sudoku digit. Now, the 9x9 sudoku board is ready in our programe. We apply ***Backtracking*** to solve the puzzle. Finally, we simulate keyboard actions by pyautogui 
+In this project, we develop sudoku (数独/すうどく) automation system to auto-solve sudoku puzzle from from [here](https://sudoku.com/medium/). First things first, we grab the screenshot image and track every positions of digits and manually labels every digits by using OpenCV. Then, we implement ***KNearest-Neighbors-Optical-Character-Recognizer (KNN-OCR)*** to detect and classify all sudoku digit. Now, the 9x9 sudoku board is ready in our programe. We apply ***Backtracking*** to solve the puzzle. Finally, we simulate keyboard actions by pyautogui 
 
 Now, it's to time to play some games!!
 
