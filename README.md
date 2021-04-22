@@ -5,7 +5,7 @@ In this project, we develop sudoku automation system to auto-solve sudoku puzzle
 Now, it's to time to play some games!!
 
 <p align="center">
-  <img src="https://github.com/terenceylchow124/Sudoku-Automation/blob/main/demo.gif" width="400" height="250">
+  <img src="https://github.com/terenceylchow124/Sudoku-Automation/blob/main/demo.gif" width="400" height="230">
 </p>
 
 # Training Steps
