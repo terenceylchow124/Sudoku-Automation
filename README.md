@@ -4,6 +4,9 @@ In this project, we develop sudoku automation system to auto-solve sudoku puzzle
 
 Now, it's to time to play some games!!
 
+<p align="center">
+  <img src="https://github.com/terenceylchow124/Sudoku-Automation/blob/main/demo.gif" width="550" height="300">
+</p>
 
 # Training Steps
 > - Normally, we need more screenshot to train our KNN-OCR, so manully take few screenshot of sudoku and create "sudoku_train.png" by combining those. To skip this step, we provide you under data/.
